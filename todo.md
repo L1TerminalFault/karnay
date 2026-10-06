@@ -1,0 +1,3 @@
+- [] edit button to edit what was filled by mistake in inventory- 
+- [] change the delete item interaction in inventory page 
+- [] summery by date daily too more customizable time frame selection and day and week comparions between start of the day or the start of the week 
